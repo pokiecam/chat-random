@@ -3,8 +3,8 @@
 A simple chat application demonstration that pairs two users with one 
 another, built using Choo.
 
-DISCLAIMER: While fully functional, this is a work in progress for the
-sake of exaple.
+**DISCLAIMER**: While fully functional, this is a work in progress for the
+sake of example.
 
 ## installation
 
