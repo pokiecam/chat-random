@@ -17,5 +17,8 @@ git clone git@github.com:akiva/chat-random.git
 Then, enter your installation directory and install the dependencies:
 
 ```bash
-npm install -g yak-shave
+npm install
 ```
+
+Now that your dependencies are installed, you are ready to go! Run `npm
+start` and visit <http://localhost:8000> to try it out!
