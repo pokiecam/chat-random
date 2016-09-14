@@ -1,0 +1,22 @@
+{
+  "name": "chat-random",
+  "version": "1.0.0",
+  "description": "Simple chat application that randomly pairs two users to chat with one another, built using Choo.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Akiva Levy <akiva@sixthirteen.co> (http://sixthirteen.co/)",
+  "dependencies": {
+    "browserify": "^13.0.1",
+    "choo": "^3.2.2",
+    "cuid": "^1.3.8",
+    "hyperstream": "^1.2.2",
+    "minimist": "^1.2.0",
+    "split2": "^2.0.1",
+    "to2": "^1.0.0",
+    "websocket-stream": "^3.1.0"
+  }
+}
