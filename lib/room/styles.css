@@ -1,0 +1,39 @@
+:host {
+  margin: 1.5rem;
+  border: 1px solid #d6dada;
+  background: #eaefef;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 0;
+  text-align: center;
+}
+
+strong {
+  font-weight: bold;
+}
+
+input#message {
+  margin-top: 1.5rem;
+  width: 100%;
+}
+
+#messages {
+  background: #fff;
+  border: 1px solid #d6dada;
+  border-radius: 3px;
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+#messages li {
+  list-style-type: none;
+  margin-bottom: 0.5rem;
+}
+
+#messages li:last-child {
+  margin-bottom: 0;
+}
